@@ -63,6 +63,3 @@ Analisis data menghasilkan temuan yang langsung dapat diimplementasikan untuk me
 | **Dominasi Produk** | **Operations Efficiency:** Lakukan *Time & Motion Study* pada proses pembuatan **The Classic Deluxe Pizza** (Top 1) untuk mengurangi *preparation time* dan mengatasi potensi *bottleneck*. |
 | **AOV Potensial** | **Pricing Strategy:** Fokus pada *Upselling* ke ukuran **Large (L)** dan buat *Bundling Packages* yang menguntungkan, karena ukuran L terbukti paling bernilai. |
 | **Fokus Kategori** | **Inventory Management:** Tetapkan **Classic** dan **Supreme** sebagai kategori *Tier 1*. Tingkatkan *buffer stock* untuk mencegah *stock-out* pada *Peak Season*. |
-
-
-* [**Raw Data Pizza Sales**](Data%20Pizza.xlsx%20-%20Raw%20Data%20Pizza%20Sales.csv)
