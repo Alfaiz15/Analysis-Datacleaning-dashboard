@@ -14,12 +14,12 @@ This portfolio demonstrates expertise in **end-to-end data workflows**, from **d
 
 ## 📈 Professional Summary
 
-I have honed essential skills for a Data Analyst in **Operations**:
+I have honed essential skills for a **Data Analyst in Operations**:
 
 * **Analytical Foundation:** Proficient in **Excel/Sheets** for revenue and time series analysis (e.g., **Project Pizza**). Beyond calculating **Total Revenue** and **Top Sellers**, I engineered operational metrics like **Total Delay Time** for airline efficiency analysis.  
 
 * **Automation & Data Structuring:** Transitioned to backend solutions with **SQL**, implementing **Operational Automation** (e.g., **Stored Procedures** for inventory management) and performing **advanced querying** using **CTEs** to ensure accurate **Net Profit** calculations.  
 
-* **Data Communication:** Skilled at converting RCA insights into impactful **Tableau dashboards**. Able to clearly communicate operational bottlenecks and provide strategic recommendations using filtered data and **geospatial insights**.  
+* **Data Communication:** Skilled at converting **RCA insights** into impactful **Tableau dashboards**. Able to clearly communicate operational bottlenecks and provide strategic recommendations using filtered data and **geospatial insights**.  
 
 Overall, I manage the **full data lifecycle**—from ensuring **data integrity** to delivering actionable insights that enhance **efficiency** and **profitability**.
