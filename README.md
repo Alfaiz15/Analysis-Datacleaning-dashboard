@@ -2,7 +2,7 @@
 
 ## 🎯 Skills & Impact Summary
 
-This portfolio showcases mastery of **end-to-end data workflows**, from **data cleansing** to **executive dashboarding**, with a strong focus on **Operational Efficiency** and **Profitability**.
+This portfolio demonstrates expertise in **end-to-end data workflows**, from **data cleansing** to **executive dashboarding**, with a strong focus on **Operational Efficiency** and **Profitability**.
 
 | Key Tools | Key Projects & Applications | Core Skills & Achievements |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ This portfolio showcases mastery of **end-to-end data workflows**, from **data c
 
 ## 📈 Professional Summary
 
-I have honed critical skills for a Data Analyst in **Operations**:
+I have honed essential skills for a Data Analyst in **Operations**:
 
 * **Analytical Foundation:** Proficient in **Excel/Sheets** for revenue and time series analysis (e.g., **Project Pizza**). Beyond calculating **Total Revenue** and **Top Sellers**, I engineered operational metrics like **Total Delay Time** for airline efficiency analysis.  
 
